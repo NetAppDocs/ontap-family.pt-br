@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="e21da1a4879f106c0966dc2fe45126c0" category="summary">O ONTAP ajuda você a criar uma infraestrutura de storage que reduz custos, acelera workloads essenciais e protege e protege os dados.</block>
+  <block id="274bc582ca884fc158ea9ac9f79f9067" category="doc">Documentação do produto ONTAP</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tudo</block>
+  <block id="caea8340e2d186a540518d08602aa065" category="sidebar">Automação</block>
+  <block id="198010d8bf8a3ff0f084ffd059a9a1da" category="sidebar">Gerenciamento de dados</block>
+  <block id="5866b98c049a53ea6dc7f50f9349f434" category="sidebar">Migração de dados</block>
+  <block id="7e7397a7b79323762c61941fc0e6b5f9" category="sidebar">Proteção de dados</block>
+  <block id="c3169d8d5427c781dfd4185e9fb99915" category="sidebar">Sistemas de hardware</block>
+  <block id="d172464251b5fa8d985a50eb969fe6a0" category="sidebar">ONTAP 9 para sistemas AFF, ASA e FAS</block>
+  <block id="829778bbaf9707cf927c8d8ef55fdbcf" category="sidebar">Use o software ONTAP para gerenciar dados em sistemas all-flash FAS, em sistemas all-flash SAN Array e em arrays híbridos-flash FAS.</block>
+  <block id="a434e37620d215ce8915132077a4c844" category="sidebar">Sistemas AFF, ASA e FAS</block>
+  <block id="f9e98651f17e24643e19d4b3693f7d31" category="sidebar">Saiba como instalar, manter e atualizar sistemas All-Flash FAS, sistemas all-flash SAN Array e arrays FAS de flash híbrido.</block>
+  <block id="fde1abb5537b55c34521d414267b3f70" category="sidebar">Sistemas ASA R2</block>
+  <block id="942e7b614fd14bfa73ca3ead7a074727" category="sidebar">Instale o sistema ASA R2 e use o ONTAP para gerenciar dados.</block>
+  <block id="18f57d600a92c92b9c8e184c2871790b" category="sidebar">ONTAP MetroCluster</block>
+  <block id="cbcc6364d2b3c7edb3a0d41c8e5f1f9f" category="sidebar">Proteja seu storage usando clustering baseado em array com replicação síncrona para oferecer disponibilidade contínua.</block>
+  <block id="bc5ec30cd3249636e4dc6b792074194d" category="sidebar">Configuração de host SAN ONTAP</block>
+  <block id="2aadcbf0b77f52d06244b76c0aea1a12" category="sidebar">Configurar hosts SAN ONTAP para os protocolos NVMe, iSCSI e FC.</block>
+  <block id="4434424bd2c1011098a508e85df56b94" category="sidebar">Relatórios técnicos da ONTAP</block>
+  <block id="d723da57939eb06777c90702932db91d" category="sidebar">Saiba mais sobre a arquitetura ONTAP e como otimizar o ONTAP para cargas de trabalho e ambientes específicos.</block>
+  <block id="4e562da2b893fe742016a3ccfd5b1e84" category="sidebar">Comandos ONTAP</block>
+  <block id="eba31e011522d2a0e8531d2b46a4b64d" category="sidebar">Saiba mais sobre os comandos disponíveis na CLI do ONTAP.</block>
+  <block id="27c7ca02055622739ea07ba1243d7683" category="sidebar">Referência do EMS da ONTAP</block>
+  <block id="59dd97bfc4b53a6590c009d9ab55aa67" category="sidebar">Saiba mais sobre os eventos do sistema de mensagens de eventos (EMS) no ONTAP.</block>
+  <block id="3a77755c4eaf7897cda1f7db8e722428" category="sidebar">Automação da ONTAP</block>
+  <block id="cd0da2f9fb1b99c1f4461a4e987db162" category="sidebar">Automatize a implantação e a administração dos sistemas de storage da ONTAP usando a API REST do ONTAP e as tecnologias compatíveis.</block>
+  <block id="117bdbda976fe8b3212bc3b6327a0a1b" category="sidebar">Cloud Volumes ONTAP</block>
+  <block id="f3230df50ceeeafc3157bee849693d34" category="sidebar">Implante uma instância virtual do ONTAP para tornar o storage de nuvem mais acessível, inteligente, em conformidade e seguro.</block>
+  <block id="3a3a5cd068731551120f43f37950768b" category="sidebar">ONTAP Select</block>
+  <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">Implante o ONTAP como um dispositivo de storage definido por software em vários servidores de hardware comuns que executam o hipervisor VMware ESXi.</block>
+  <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">Importação LUN estrangeiro ONTAP</block>
+  <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">Migre LUNs de arrays de terceiros e sistemas de 7 modos para o storage NetApp moderno.</block>
+</blocks>
