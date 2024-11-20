@@ -69,7 +69,7 @@ product-family:
     tags: all, management
   - title: Referência do EMS da ONTAP
     icon: "./media/cli.png"
-    url: https://docs.netapp.com/us-en/ontap-ems-9141/
+    url: https://docs.netapp.com/us-en/ontap-ems/
     summary: Saiba mais sobre os eventos do sistema de mensagens de eventos (EMS)
       no ONTAP.
     tags: all, management
