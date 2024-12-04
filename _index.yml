@@ -1,0 +1,91 @@
+---
+product-family:
+  title: Documentação do produto ONTAP
+  lead: O ONTAP ajuda você a criar uma infraestrutura de storage que reduz custos,
+    acelera workloads essenciais e protege e protege os dados.
+  summary: O ONTAP ajuda você a criar uma infraestrutura de storage que reduz custos,
+    acelera workloads essenciais e protege e protege os dados.
+  sidebarlinks:
+  - title: Tudo
+    tags: all
+    class: active
+  - title: Automação
+    tags: automation
+  - title: Gerenciamento de dados
+    tags: management
+  - title: Migração de dados
+    tags: migration
+  - title: Proteção de dados
+    tags: protection
+  - title: Sistemas de hardware
+    tags: hardware
+  tiles:
+  - title: ONTAP 9 para sistemas AFF, ASA e FAS
+    icon: "./media/icon-onprem.png"
+    url: "../ontap/index.html"
+    summary: Use o software ONTAP para gerenciar dados em sistemas all-flash FAS,
+      em sistemas all-flash SAN Array e em arrays híbridos-flash FAS.
+    tags: all, management, protection
+  - title: Sistemas AFF, ASA e FAS
+    icon: "./media/groups_line.png"
+    url: "../ontap-systems-family/index.html"
+    summary: Saiba como instalar, manter e atualizar sistemas All-Flash FAS, sistemas
+      all-flash SAN Array e arrays FAS de flash híbrido.
+    tags: all, hardware
+  - title: Sistemas ASA R2
+    icon: "./media/groups_line.png"
+    url: "../asa-r2/index.html"
+    summary: Instale o sistema ASA R2 e use o ONTAP para gerenciar dados.
+    tags: all, hardware
+  - title: ONTAP MetroCluster
+    icon: "./media/metrocluster.png"
+    url: "../ontap-metrocluster/index.html"
+    summary: Proteja seu storage usando clustering baseado em array com replicação
+      síncrona para oferecer disponibilidade contínua.
+    tags: all, protection
+  - title: Configuração de host SAN ONTAP
+    icon: "./media/server.png"
+    url: "../ontap-sanhost/index.html"
+    summary: Configurar hosts SAN ONTAP para os protocolos NVMe, iSCSI e FC.
+    tags: all, management
+  - title: Relatórios técnicos da ONTAP
+    icon: "./media/icon-onprem.png"
+    url: "../ontap-technical-reports/index.html"
+    summary: Saiba mais sobre a arquitetura ONTAP e como otimizar o ONTAP para cargas
+      de trabalho e ambientes específicos.
+    tags: all, management, protection
+  - title: Comandos ONTAP
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-cli/index.html
+    summary: Saiba mais sobre os comandos disponíveis na CLI do ONTAP.
+    tags: all, management
+  - title: Referência do EMS da ONTAP
+    icon: "./media/cli.png"
+    url: https://docs.netapp.com/us-en/ontap-ems/index.html
+    summary: Saiba mais sobre os eventos do sistema de mensagens de eventos (EMS)
+      no ONTAP.
+    tags: all, management
+  - title: Automação da ONTAP
+    icon: "./media/icon-api.png"
+    url: "../ontap-automation/index.html"
+    summary: Automatize a implantação e a administração dos sistemas de storage da
+      ONTAP usando a API REST do ONTAP e as tecnologias compatíveis.
+    tags: all, automation, management
+  - title: Cloud Volumes ONTAP
+    icon: "./media/icon-cvo.png"
+    url: "../cloud-manager-cloud-volumes-ontap/index.html"
+    summary: Implante uma instância virtual do ONTAP para tornar o storage de nuvem
+      mais acessível, inteligente, em conformidade e seguro.
+    tags: all, management, protection
+  - title: ONTAP Select
+    icon: "./media/server.png"
+    url: "../ontap-select/index.html"
+    summary: Implante o ONTAP como um dispositivo de storage definido por software
+      em vários servidores de hardware comuns que executam o hipervisor VMware ESXi.
+    tags: all, management, protection
+  - title: Importação LUN estrangeiro ONTAP
+    icon: "./media/transition-tools.png"
+    url: "../ontap-fli/index.html"
+    summary: Migre LUNs de arrays de terceiros e sistemas de 7 modos para o storage
+      NetApp moderno.
+    tags: all, migration

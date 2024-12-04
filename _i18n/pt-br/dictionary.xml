@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
-  <block id="e21da1a4879f106c0966dc2fe45126c0" category="summary">O ONTAP ajuda você a criar uma infraestrutura de storage que reduz custos, acelera workloads essenciais e protege e protege os dados.</block>
   <block id="274bc582ca884fc158ea9ac9f79f9067" category="doc">Documentação do produto ONTAP</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">Tudo</block>
   <block id="caea8340e2d186a540518d08602aa065" category="sidebar">Automação</block>
@@ -32,4 +31,5 @@
   <block id="8010c7fea7ec3a053ce59d083aa16df6" category="sidebar">Implante o ONTAP como um dispositivo de storage definido por software em vários servidores de hardware comuns que executam o hipervisor VMware ESXi.</block>
   <block id="3be720072e03679f7ed0f85258130b70" category="sidebar">Importação LUN estrangeiro ONTAP</block>
   <block id="b2934159aedd460ca247425783b1dc65" category="sidebar">Migre LUNs de arrays de terceiros e sistemas de 7 modos para o storage NetApp moderno.</block>
+  <block id="6b5b170d11f85aa7605678eed04a62cf" category="sidebar">O ONTAP ajuda você a criar uma infraestrutura de storage que reduz custos, acelera workloads essenciais e protege e protege os dados.</block>
 </blocks>
