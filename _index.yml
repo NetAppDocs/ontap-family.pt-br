@@ -13,8 +13,6 @@ product-family:
     tags: automation
   - title: Gerenciamento de dados
     tags: management
-  - title: Migração de dados
-    tags: migration
   - title: Proteção de dados
     tags: protection
   - title: Sistemas de hardware
@@ -31,6 +29,11 @@ product-family:
     url: "../ontap-systems-family/index.html"
     summary: Saiba como instalar, manter e atualizar sistemas All-Flash FAS, sistemas
       all-flash SAN Array e arrays FAS de flash híbrido.
+    tags: all, hardware
+  - title: Sistemas AFX
+    icon: "./media/groups_line.png"
+    url: "../ontap-afx/index.html"
+    summary: Instale seu sistema AFX e use o ONTAP para gerenciar dados.
     tags: all, hardware
   - title: Sistemas ASA R2
     icon: "./media/groups_line.png"
@@ -83,9 +86,3 @@ product-family:
     summary: Implante o ONTAP como um dispositivo de storage definido por software
       em vários servidores de hardware comuns que executam o hipervisor VMware ESXi.
     tags: all, management, protection
-  - title: Importação LUN estrangeiro ONTAP
-    icon: "./media/transition-tools.png"
-    url: "../ontap-fli/index.html"
-    summary: Migre LUNs de arrays de terceiros e sistemas de 7 modos para o storage
-      NetApp moderno.
-    tags: all, migration
